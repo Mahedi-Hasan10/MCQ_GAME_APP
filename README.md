@@ -34,7 +34,7 @@ A simple quiz application built using React and JavaScript. The app allows users
 2. Navigate to the project directory:
 
    ```bash
-   cd react-quiz-app
+   cd MCQ_GAME_APP
    ```
 
 3. Install the dependencies:
