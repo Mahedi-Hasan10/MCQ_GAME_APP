@@ -28,7 +28,7 @@ A simple quiz application built using React and JavaScript. The app allows users
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-quiz-app.git
+   git clone https://github.com/Mahedi-Hasan10/MCQ_GAME_APP.git
    ```
 
 2. Navigate to the project directory:
